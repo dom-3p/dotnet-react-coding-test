@@ -1,7 +1,6 @@
 # 3P Learning - Full Stack Coding Task
 
-## Junior Developers
-This information applies to 3P learning's full-stack coding task for junior dot net (C#) and react developers. The purpose of this task is to be used in follow-up conversations in an interview. Since there are a number of different ways of achieving the task, even with a single programming language, there is no single right answer.
+This information applies to 3P learning's full-stack coding task for full stack dot net (C#) and react developers. The purpose of this task is to be used in follow-up conversations in an interview. Since there are a number of different ways of achieving the task, even with a single programming language, there is no single right answer.
 
 ## Background
 
