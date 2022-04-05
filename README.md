@@ -7,7 +7,7 @@ This information applies to 3P learning's full-stack coding task for junior dot 
 
 For this task you need to build a web application which is a source code repository management tool that will allow a user of the application to keep an inventory of source code repositories. The reason for this is so that they can assign a development team as owners of a repository to understand which team owns which parts of the overall codebase. For the purposes of the task you can expect the dummy organisation for which you are building the app to have around 800 source code repositories.
 
-You will be building both the backend api using dot net 6.x (C#), as well as the front-end interface using React 17.x. As a rough time line you should spend between 1 and 2 hours to complete the build. You should complete this at least 24 hours before your interview and send the link to your code implementation (instructions below) to your 3P Learning contact.
+You will be building both the backend api using dot net 6.x (C#), as well as the front-end interface using React 17.x. As a rough time line you should spend between 2 and 3 hours to complete the build. You should complete this at least 24 hours before your interview and send the link to your code implementation (instructions below) to your 3P Learning contact.
 
 You do not need to use a database for this task, in-memory data which is destroyed every time the application is stopped is perfectly acceptable. There are also no limitations on legally usable external libraries you want to use to achieve the task as long as the libraries have an open source license, preferably along the lines of LGPL. 
 
